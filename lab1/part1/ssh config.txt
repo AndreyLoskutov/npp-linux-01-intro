@@ -1,0 +1,12 @@
+Host default
+  HostName 127.0.0.1
+  User vagrant
+  Port 2222
+  UserKnownHostsFile /dev/null
+  StrictHostKeyChecking no
+  PasswordAuthentication no
+  IdentityFile "C:/Users/andre/Desktop/CU Boulder/CSCA 5073 Network Principles in Practice Linux Networking/01. Introduction to Linux Networking/repo/npp-linux-01-intro/.vagrant/machines/default/virtualbox/private_key"
+  IdentitiesOnly yes
+  LogLevel FATAL
+  PubkeyAcceptedKeyTypes +ssh-rsa
+  HostKeyAlgorithms +ssh-rsa
